@@ -4,11 +4,11 @@ import os
 import colorama
 from colorama import Fore
  
-token = "YOUR_TOKEN" # Paste your discord token here!
-prefix = "$" # Customize the prefix.
-title = '''ran by Offender (:''' # Input a title here, like, Ran By Offender!
-linky = "https://put.a.random.link.here" # Over here you make a fake link, like https://offender.on.top or something anything
-footer = "Put a footer here lol" # This will be at the end of the image, Example: All Hail Me!
+token = ""mfa.PX2-FtSRqyiIHEZ2E_0SKIwiqbV7d83IUg2e5AFa1OmjV7PFZfz5TK0XcGBVuB7qCGCpHQDtdtOUnELBwWW9"" # Paste your discord token here!
+prefix = "^" # Customize the prefix.
+title = '''ran by YOUR DAD (:''' # Input a title here, like, Ran By Offender!
+linky = "https://femboy.is.bad" # Over here you make a fake link, like https://offender.on.top or something anything
+footer = "You're fat gay" # This will be at the end of the image, Example: All Hail Me!
  
 # Example of command, $embed https://cdn.discordapp.com/attachments/811716182481698847/811729488861724722/Random-FB-BANNER.png
  
